@@ -1,0 +1,6 @@
+{
+  "name": "lerna",
+  "scripts": {
+    "build": "umi-lib build --umd"
+  }
+}
