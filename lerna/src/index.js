@@ -1,2 +1,2 @@
 
-export default from '../packages/foo/index';
+export default from '../packages/foo/src/index';
